@@ -3,6 +3,7 @@ import Principal.ingresarPersona;
 public class Principal {
     public static void main(String[] args) {
 
-          ingresarPersona ventana = new ingresarPersona();
+          ///ingresarPersona ventana = new ingresarPersona();
+        VentanaPrincipal ventana = new VentanaPrincipal();
     }
 }
